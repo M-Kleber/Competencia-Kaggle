@@ -24,5 +24,5 @@ C.C: 1001824845 <br/>
 Ingenieria de Sistemas
 
 
-##Video
+## Video Entrega 2:
 https://www.youtube.com/watch?v=aJEdjuQkCjc
